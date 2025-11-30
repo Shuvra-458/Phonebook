@@ -39,7 +39,6 @@ namespace Contact_Management.Services
 
             var lines = File.ReadAllLines(filePath);
 
-            
             for (int i = 1; i < lines.Length; i++)
             {
                 var cols = lines[i].Split(',');
