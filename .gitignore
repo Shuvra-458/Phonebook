@@ -1,0 +1,46 @@
+
+# Visual Studio / .NET Gitignore
+
+## Build Folders
+bin/
+obj/
+out/
+Debug/
+Release/
+
+## Rider / VS Code settings
+.idea/
+.vscode/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.json
+*.csv
+
+## Logs
+*.log
+logs/
+
+## ASP.NET temp
+/App_Data/
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Temporary files
+~$*
+*.tmp
+*.temp
+
+## Cache
+.cache/
