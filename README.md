@@ -9,26 +9,26 @@ import contacts** with persistent storage.
 
 ### 🔹 Core Functionalities
 
--   Add new contacts\
--   View all contacts\
--   Search contacts by name or phone\
--   Update existing contact\
--   Delete contact\
--   Persistent storage using local file system\
+-   Add new contacts
+-   View all contacts
+-   Search contacts by name or phone
+-   Update existing contact
+-   Delete contact
+-   Persistent storage using local file system
 -   Auto-incrementing contact ID
 
 ### 🔹 CSV Support
 
--   Export all contacts to a CSV file\
--   Import contacts from an external CSV\
--   Automatically merges imported contacts\
+-   Export all contacts to a CSV file
+-   Import contacts from an external CSV
+-   Automatically merges imported contacts
 -   Validates structure before import
 
 ### 🔹 Clean Architecture
 
--   **Models** (Contact.cs)\
--   **Services** (ContactService.cs, CsvService.cs)\
--   **Utils** (ConsoleUI.cs)\
+-   **Models** (Contact.cs)
+-   **Services** (ContactService.cs, CsvService.cs)
+-   **Utils** (ConsoleUI.cs)
 -   **FileStorage** for persistent local saving
 
 ## 📁 Project Structure
@@ -50,8 +50,8 @@ import contacts** with persistent storage.
 
 -   C#
 -   .NET / .NET Core
--   File I/O for persistent storage\
--   CSV parsing\
+-   File I/O for persistent storage
+-   CSV parsing
 -   Object-Oriented Design
 
 ## ▶️ How to Run
@@ -90,11 +90,11 @@ Then provide the file path inside the program when prompted.
 
 ## 🔮 Future Enhancements
 
--   JSON database support\
--   Tag-based contact grouping\
--   Search by email & address\
--   Duplicate entry detection\
--   Colored terminal output\
+-   JSON database support
+-   Tag-based contact grouping
+-   Search by email & address
+-   Duplicate entry detection
+-   Colored terminal output
 -   Undo last operation
 
 ## 📜 License
