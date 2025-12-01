@@ -59,7 +59,7 @@ import contacts** with persistent storage.
 ### 1. Clone the Repository
 
     git clone https://github.com/Shuvra-458/Phonebook.git
-    cd Contact_Management
+    cd Phonebook
 
 ### 2. Build the Project
 
